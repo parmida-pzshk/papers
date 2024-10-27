@@ -5,3 +5,7 @@
 * RNN
 * Transformers
 ## Learning
+* Backpropagation
+* Weight perturbation
+* Kolen-Pollack
+
