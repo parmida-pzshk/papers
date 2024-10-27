@@ -1,6 +1,6 @@
 # Neural Nets
 ## Architectures
-* DNN
+* DNN (Feed-forward)
 * CNN
 * RNN
 * Transformers
